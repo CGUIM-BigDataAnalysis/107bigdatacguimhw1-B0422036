@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1558427498760.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1499089666",
+    "id" : "118B127D",
+    "lastKnownWriteTime" : 1558537925,
+    "last_content_update" : 1558537925519,
+    "path" : "~/GitHub/107bigdatacguimhw1-B0422036/SalaryAnalysis.Rmd",
+    "project_path" : "SalaryAnalysis.Rmd",
+    "properties" : {
+        "cursorPosition" : "126,31",
+        "scrollLine" : "92"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

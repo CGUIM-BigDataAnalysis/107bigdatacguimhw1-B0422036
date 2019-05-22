@@ -1,0 +1,51 @@
+"0","library(readr)"
+"2","Warning message:
+"
+"2","In strsplit(code, ""\n"", fixed = TRUE) :"
+"2","
+ "
+"2"," input string 1 is invalid in this locale
+"
+"0","library(dplyr)"
+"0","Y103 <- read_csv(""C:/Users/user/Desktop/103å¹´å„è·é¡žåˆ¥åˆä»»äººå“¡ç¶“å¸¸æ€§è–ªè³‡ï¼æŒ‰è¡Œæ¥­åˆ¥åˆ†.csv"")"
+"2","Parsed with column specification:
+cols(
+  ¦~«× = [32mcol_double()[39m,
+  ¦æ·~§O = [31mcol_character()[39m,
+  `¸g±`©ÊÁ~¸ê-Á~¸ê` = [32mcol_double()[39m,
+  `¸g±`©ÊÁ~¸ê-¤k/¨k` = [31mcol_character()[39m,
+  `±M·~¤H­û-Á~¸ê` = [31mcol_character()[39m,
+  `±M·~¤H­û-¤k/¨k` = [31mcol_character()[39m,
+  `§Þ³N­û¤Î§U²z±M·~¤H­û-Á~¸ê` = [31mcol_character()[39m,
+  `§Þ³N­û¤Î§U²z±M·~¤H­û-¤k/¨k` = [31mcol_character()[39m,
+  `¨Æ°È¤ä´©¤H­û-Á~¸ê` = [32mcol_double()[39m,
+  `¨Æ°È¤ä´©¤H­û-¤k/¨k` = [31mcol_character()[39m,
+  `ªA°È¤Î¾P°â¤u§@¤H­û-Á~¸ê` = [31mcol_character()[39m,
+  `ªA°È¤Î¾P°â¤u§@¤H­û-¤k/¨k` = [31mcol_character()[39m,
+  `§ÞÃÀ_¾÷±ñ³]³Æ¾Þ§@¤Î²Õ¸Ë¤H­û-Á~¸ê` = [31mcol_character()[39m,
+  `§ÞÃÀ_¾÷±ñ³]³Æ¾Þ§@¤Î²Õ¸Ë¤H­û-¤k/¨k` = [31mcol_character()[39m,
+  `°ò¼h§Þ³N¤u¤Î³Ò¤O¤u-Á~¸ê` = [31mcol_character()[39m,
+  `°ò¼h§Þ³N¤u¤Î³Ò¤O¤u-¤k/¨k` = [31mcol_character()[39m
+)
+"
+"0","Y106 <- read_csv(""C:/Users/user/Desktop/106å¹´å„è·é¡žåˆ¥åˆä»»äººå“¡æ¯äººæ¯æœˆç¶“å¸¸æ€§è–ªè³‡ï¼æŒ‰è¡Œæ¥­åˆ¥åˆ†.csv"")"
+"2","Parsed with column specification:
+cols(
+  ¦~«× = [32mcol_double()[39m,
+  ¦æ·~§O = [31mcol_character()[39m,
+  `¸g±`©ÊÁ~¸ê-Á~¸ê` = [32mcol_double()[39m,
+  `¸g±`©ÊÁ~¸ê-¤k/¨k` = [32mcol_double()[39m,
+  `±M·~¤H­û-Á~¸ê` = [31mcol_character()[39m,
+  `±M·~¤H­û-¤k/¨k` = [31mcol_character()[39m,
+  `§Þ³N­û¤Î§U²z±M·~¤H­û-Á~¸ê` = [31mcol_character()[39m,
+  `§Þ³N­û¤Î§U²z±M·~¤H­û-¤k/¨k` = [31mcol_character()[39m,
+  `¨Æ°È¤ä´©¤H­û-Á~¸ê` = [32mcol_double()[39m,
+  `¨Æ°È¤ä´©¤H­û-¤k/¨k` = [31mcol_character()[39m,
+  `ªA°È¤Î¾P°â¤u§@¤H­û-Á~¸ê` = [31mcol_character()[39m,
+  `ªA°È¤Î¾P°â¤u§@¤H­û-¤k/¨k` = [31mcol_character()[39m,
+  `§ÞÃÀ_¾÷±ñ³]³Æ¾Þ§@¤Î²Õ¸Ë¤H­û-Á~¸ê` = [31mcol_character()[39m,
+  `§ÞÃÀ_¾÷±ñ³]³Æ¾Þ§@¤Î²Õ¸Ë¤H­û-¤k/¨k` = [31mcol_character()[39m,
+  `°ò¼h§Þ³N¤u¤Î³Ò¤O¤u-Á~¸ê` = [31mcol_character()[39m,
+  `°ò¼h§Þ³N¤u¤Î³Ò¤O¤u-¤k/¨k` = [31mcol_character()[39m
+)
+"
